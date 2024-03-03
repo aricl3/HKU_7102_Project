@@ -47,9 +47,9 @@
 ### Research Problem:
 1. Where can I find the [datasets](#q2-which-data-sources-and-data-files-will-you-use-for-data-analysis) of knowledge from **entrepreneurship websites, and social media analysis**.Further more, Which entrepreneurship websites, and social media analysis are worthy of our reference? 
 
-2. If we have these data, then the primary research problem is to determine **how data mining and text analysis can be utilized** to support entrepreneurship development.
+2. If we have these data, then the primary research problem is to determine **[how data mining and text analysis can be utilized](#q3-how-will-you-use-the-selected-data-for-statistical-analysis)** to support entrepreneurship development.
 
-3. How to clean the data that we collected?
+3. How to [clean the data](#q4-what-data-cleanning-and-data-pre-processing-will-you-do-on-your-collected-data) that we collected?
 
 4. What is the final goal that needs to be achieved for this project and to what extent it needs to be completed?
 
@@ -88,6 +88,8 @@
 
 ## Q3 How will you use the selected data for statistical analysis? 
 
+![pic](./src/working_trend.png)
+
 1. [Data Cleaning & Data Preprocessing](#q4-what-data-cleanning-and-data-pre-processing-will-you-do-on-your-collected-data)
 2. Keyword Extraction
 - Frequency Analysis: Identify the most frequently occurring words or phrases within the text data to highlight trending topics or areas of interest.
@@ -107,8 +109,6 @@
 - Dashboard Development: Utilize dashboard development platforms (e.g., Dash by Plotly, Tableau) to create an interactive interface that displays analytics results, trends, and predictions derived from the statistical analysis.
 8. Continuous Learning and Updating
 - Feedback Loop: Incorporate user feedback and interactions with the chatbot to refine and update the models. This ensures the chatbot evolves with changing trends and user needs.
-
-By following these steps, the selected data can be effectively used for statistical analysis, providing the foundation for a knowledge-driven chatbot that supports entrepreneurship development through actionable insights and recommendations.
 
 
 
