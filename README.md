@@ -13,4 +13,4 @@ knowledge from entrepreneurship websites, and social media analysis of different
 6.	Develop an integrated model to combine the above analyses into a dashboard and to provide answers and recommendations in Chatbot.
 
 # Presentation on March 3rd
-[Plan docs](./pre_Mar_3.md)
+[Plan docs](./doc/pre_Mar_3.md)
