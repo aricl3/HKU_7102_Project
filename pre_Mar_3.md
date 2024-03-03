@@ -38,5 +38,3 @@
 # Part 8: Expected Insights and Conclusion
 - Summarize the expected business insights and how they will benefit startups.
 - Conclude with the potential impact of the Chatbot on entrepreneurship education.
-
-Each part should focus on a specific aspect of the project, ensuring a comprehensive overview and detailed discussion on the implementation and expected outcomes. This structure will help maintain an even workload and a coherent flow throughout the presentation.
